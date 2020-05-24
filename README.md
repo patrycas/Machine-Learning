@@ -15,6 +15,8 @@ The code is developed in Python and the steps to follow are:
 6) buildTree function: Find the best tree.
 
 For more information you can read the articles:
+
+
         https://medium.com/@patriziacastagnod/tree-models-cb676e2cd74f
         
         https://medium.com/@patriziacastagnod/example-compute-the-impurity-using-entropy-and-gini-index-794d101c2c18
