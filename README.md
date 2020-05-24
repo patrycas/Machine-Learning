@@ -10,6 +10,9 @@ The code is developed in Python and the steps to follow are:
 
 4) Entropy or Gini function: Compute the Impurity Measures using Entropy or Gini Index. 
 
+        In the file entropy_example.ipynb you can find the code using entropy as Impurity Measure.
+        In the file gini_ex.ipynb you can find the code using gini index as Impurity Measure.
+
 5) min_impurity function:Determine the minimum values of Impurity Measures.
 
 6) buildTree function: Find the best tree.
